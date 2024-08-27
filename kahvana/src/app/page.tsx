@@ -15,8 +15,9 @@ export default function Page() {
       <Home></Home>
       <Services></Services>
       <WhyChooseUs></WhyChooseUs>
-      <Services2></Services2>
       <Trusted></Trusted>
+      <Services2></Services2>
+      
       
 
     </main>

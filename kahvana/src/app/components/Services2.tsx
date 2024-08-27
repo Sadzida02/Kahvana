@@ -4,7 +4,7 @@ import { faArrowRight} from "@fortawesome/free-solid-svg-icons";
 
 function Services2() {
   return (
-    <div className='text-white'>
+    <div className='text-white my-24'>
         <div className='flex items-center justify-center'>
             <div className='w-475 h-0.5 bg-white'></div>
             <h2 className='p-2 w-1/3 text-4xl font-extrabold text-center'>Services</h2>
