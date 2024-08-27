@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
+import Services2 from "./components/Services2";
 
 export default function Page() {
   return (
@@ -13,6 +14,7 @@ export default function Page() {
       <Home></Home>
       <Services></Services>
       <WhyChooseUs></WhyChooseUs>
+      <Services2></Services2>
       
 
     </main>

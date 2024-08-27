@@ -5,7 +5,7 @@ function WhyChooseUs() {
     <div className='text-white'>
         <div className='flex mt-32 items-center justify-center'>
             <div className='w-475 h-0.5 bg-white'></div>
-            <h2 className='p-2 w-1/3 text-4xl text-center'>Why Choose Us?</h2>
+            <h2 className='p-2 w-1/3 text-4xl text-center font-extrabold'>Why Choose Us?</h2>
             <div className='w-475 h-0.5 bg-white'></div>
          </div>
 
