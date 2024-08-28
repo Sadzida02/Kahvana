@@ -70,7 +70,7 @@ const Trusted = () => {
          
 
           </a>
-          <a href="" className='w-539 h-150 bg-white rounded-3xl  flex-row flex mt-5'>
+          <a href="" className='w-539 h-150 bg-white rounded-3xl  flex-row flex mt-5 mb-20'>
             <img src="/linkedin3.jpg" alt="" className='rounded-full h-150 w-150  flex flex-col'/>
             <div className='w-342 h-131  mt-2 ml-10 rounded-xl '>
             <h4>Ime Prezime</h4>
