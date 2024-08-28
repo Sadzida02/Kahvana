@@ -2,7 +2,7 @@ import React from 'react'
 
 function Services() {
   return (
-    <div className='bg-almostWhite w-1000 h-250 rounded-2xl relative flex justify-between items-center mx-56 px-12 text-center'>
+    <div className='bg-almostWhite w-1000 h-250 rounded-2xl relative bottom-32 z-7 flex justify-between items-center mx-56 px-12 text-center'>
         <div className='flex flex-col justify-center items-center'>
             <img src="/dev.png" alt="development" width={100} height={100} />
             <h3 className='text-xl font-extrabold mt-4 mb-2'>Development</h3>

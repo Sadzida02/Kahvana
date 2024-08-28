@@ -11,8 +11,10 @@ const config: Config = {
       colors: {
         "kahvanaPink": "#FF3179",
         "almostWhite": "#F4F4F9",
+        "lightGray": "#BCBCBC",
       },
       width: {
+        "1": "1px",
         "75":"75px",
         "100": "100px",
         "139":"139px",
@@ -26,13 +28,19 @@ const config: Config = {
         "304": "304px",
         "121": "121px",
         "167": "167px",
+        "475": "475px",
         "526": "526px",
         "539": "539px",
+<<<<<<< HEAD
         "552":"552px",
         "610":"610px",
         "650":"650px",  
         "700":"700px",
         "750": "750px",
+=======
+        "580": "580px",
+        "620": "620px",
+>>>>>>> d834215ad88dcaedf09512d7731a208a16bc9eee
         "687": "687px",
         "1000": "1000px",
         "1360": "1360px",
@@ -42,7 +50,11 @@ const config: Config = {
 
       },
       height: {
+<<<<<<< HEAD
         "0.5":"0.5px",
+=======
+        "1": "1px",
+>>>>>>> d834215ad88dcaedf09512d7731a208a16bc9eee
         "38": "38px",
         "49": "49px",
         "58":"58px",
@@ -78,6 +90,7 @@ const config: Config = {
           "48px":"48px"
 
       },
+<<<<<<< HEAD
       spacing:{
         "100":"400px",
         "200":"800px"
@@ -86,6 +99,14 @@ const config: Config = {
       opacity: {
         '0.005': '0.005', // Dodajte opacity od 0,5%
       },
+=======
+
+      margin: {
+        "100": "100px",
+        "190": "190px",
+        "305": "305px",
+      }
+>>>>>>> d834215ad88dcaedf09512d7731a208a16bc9eee
     },
   },
   plugins: [],
