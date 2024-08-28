@@ -77,7 +77,7 @@ function Footer() {
                 <img src="/facebookLogo.png" alt="" />
             </div>
 
-            <div className='flex items-center justify-center mt-7'>
+            <div className='flex items-center justify-center mt-7 gap-3'>
                 <a href="#" className='text-base font-normal'> Terms & Conditions</a>
                 <a href="#"> Privacy Policy</a>
             </div>
