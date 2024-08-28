@@ -6,10 +6,7 @@ import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Services2 from "./components/Services2";
 import Trusted from "./components/Trusted";
-<<<<<<< HEAD
 import Form from "./components/Form";
-=======
->>>>>>> 029bc457b8409426abe22816f509c3b137b6a710
 import Footer from "./components/Footer";
 
 export default function Page() {
@@ -21,14 +18,11 @@ export default function Page() {
       <Services></Services>
       <WhyChooseUs></WhyChooseUs>
       <Trusted></Trusted>
-<<<<<<< HEAD
       <Form></Form>
       <Footer></Footer>
-=======
       <Services2></Services2>
       <Footer></Footer>
       
->>>>>>> 029bc457b8409426abe22816f509c3b137b6a710
       
 
     </main>
