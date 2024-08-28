@@ -11,12 +11,12 @@ const Trusted = () => {
               <h3 className='text-xl font-extrabold'>Review</h3>    
         </div>
         <div className='w-250 h-200 flex flex-col rounded-2xl bg-[#EDEAEA] items-center justify-center' >
-              <img src="/formkit_people.png" alt="people" width={100} height={100} />
-              <h3 className='text-xl font-extrabold'>Review</h3>    
+              <img src="/vector.png" alt="people" width={100} height={100} />
+              <h3 className='text-xl font-extrabold opacity-30'>Areas of our work</h3>    
         </div>
         <div className='w-250 h-200 flex flex-col rounded-2xl bg-[#EDEAEA] items-center justify-center' >
-              <img src="/formkit_people.png" alt="people" width={100} height={100} />
-              <h3 className='text-xl font-extrabold'>Review</h3>    
+              <img src="/wpf_faq.png" alt="people" width={100} height={100} />
+              <h3 className='text-xl font-extrabold opacity-30'>FAQ</h3>    
         </div>
       </div>
      
@@ -49,7 +49,7 @@ const Trusted = () => {
             <img src="/linkedin2.jpg" alt="" className='rounded-full h-150 w-150 border-2 border-black'/>
           </a>
           <a href="" className='w-539 h-150 bg-white rounded-3xl  flex-row flex mt-5 mb-20'>
-            <img src="/linkedin3.jpg" alt="" className='rounded-full h-150 w-150  flex flex-col'/>
+            <img src="/linkedin3.jpg" alt="" className='rounded-full h-150 w-150 border-2 border-black flex flex-col'/>
             <div className='w-342 h-131  mt-2 ml-10 rounded-xl '>
             <h4>Ime Prezime</h4>
             <p>CEO @ Digital Hub</p>
