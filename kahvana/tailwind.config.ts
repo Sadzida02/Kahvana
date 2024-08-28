@@ -12,6 +12,7 @@ const config: Config = {
         "kahvanaPink": "#FF3179",
         "almostWhite": "#F4F4F9",
         "lightGray": "#BCBCBC",
+        "footerGray": "#111111",
       },
       width: {
         "1": "1px",
@@ -26,6 +27,7 @@ const config: Config = {
         "304": "304px",
         "121": "121px",
         "167": "167px",
+        "313": "313px",
         "475": "475px",
         "526": "526px",
         "539": "539px",
@@ -56,6 +58,7 @@ const config: Config = {
         "804":"804px",
         "809":"809px",
         "810":"810px",
+        "868":"868px",
         "1024": "1024px",
         "1040": "1040px",
 
@@ -69,6 +72,7 @@ const config: Config = {
 
       margin: {
         "100": "100px",
+        "155": "155px",
         "190": "190px",
         "305": "305px",
       }

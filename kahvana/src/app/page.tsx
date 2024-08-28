@@ -6,6 +6,7 @@ import Services from "./components/Services";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Services2 from "./components/Services2";
 import Trusted from "./components/Trusted";
+import Footer from "./components/Footer";
 
 export default function Page() {
   return (
@@ -17,6 +18,7 @@ export default function Page() {
       <WhyChooseUs></WhyChooseUs>
       <Trusted></Trusted>
       <Services2></Services2>
+      <Footer></Footer>
       
       
 

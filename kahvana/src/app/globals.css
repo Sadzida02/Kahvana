@@ -6,6 +6,11 @@
   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../public/home1.jpg');
 }
 
+.custom-img2 {
+  background-image: url('../../public/kartasvijeta.png');
+  background-color: var(--footerGray);
+}
+
 body {
   background-image: url('../../public/servicesbackgorundimage.jpg');
 }
