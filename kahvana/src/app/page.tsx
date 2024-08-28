@@ -18,13 +18,8 @@ export default function Page() {
       <Services></Services>
       <WhyChooseUs></WhyChooseUs>
       <Trusted></Trusted>
-<<<<<<< HEAD
       <Form></Form>
       <Footer></Footer>
-=======
-      <Services2></Services2>
-      
->>>>>>> d834215ad88dcaedf09512d7731a208a16bc9eee
       
 
     </main>
