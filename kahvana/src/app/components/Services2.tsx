@@ -12,7 +12,7 @@ function Services2() {
          </div>
 
          <div className='h-366 flex justify-around items-center mt-8 mx-190'>
-            <div>
+            <div className='hover:bg-white hover:text-black p-5 rounded-2xl'>
                 <h2 className='text-3xl'>Web App</h2>
                 <hr className='w-24 h-1 bg-white my-3'/>
                 <p className='text-xl my-8'>Bla bla naa bla bla Bla bla <br />naa bla bla Bla bla naa <br /> bla bla Bla bla naa bla bla</p>
@@ -21,7 +21,7 @@ function Services2() {
 
             <div className='bg-white h-44 w-1'></div>
 
-            <div>
+            <div className='hover:bg-white hover:text-black p-5 rounded-2xl'>
                 <h2 className='text-3xl'>Marketing</h2>
                 <hr className='w-24 h-1 bg-white my-3'/>
                 <p className='text-xl my-8'>Bla bla naa bla bla Bla bla <br />naa bla bla Bla bla naa <br /> bla bla Bla bla naa bla bla</p>
@@ -30,7 +30,7 @@ function Services2() {
             
             <div className='bg-white h-44 w-1'></div>
 
-            <div>
+            <div className='hover:bg-white hover:text-black p-5 rounded-2xl'>
                 <h2 className='text-3xl'>SEO</h2>
                 <hr className='w-24 h-1 bg-white my-3'/>
                 <p className='text-xl my-8'>Bla bla naa bla bla Bla bla <br />naa bla bla Bla bla naa <br /> bla bla Bla bla naa bla bla</p>
