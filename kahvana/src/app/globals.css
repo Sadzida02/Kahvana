@@ -7,8 +7,7 @@
 }
 
 .custom-img2 {
-  background-image: url('../../public/kartasvijeta.png');
-  background-color: var(--footerGray);
+  background-image: url('../../public/backgroundForTrusted.jpg');
 }
 
 body {
