@@ -11,11 +11,11 @@ const Trusted = () => {
               <h3 className='text-xl font-extrabold'>Review</h3>    
         </div>
         <div className='w-250 h-200 flex flex-col rounded-2xl bg-[#EDEAEA] items-center justify-center' >
-              <img src="/vector.png" alt="people" width={100} height={100} />
+              <img src="/areas.png" className='opacity-30' alt="people" width={100} height={100} />
               <h3 className='text-xl font-extrabold opacity-30'>Areas of our work</h3>    
         </div>
         <div className='w-250 h-200 flex flex-col rounded-2xl bg-[#EDEAEA] items-center justify-center' >
-              <img src="/wpf_faq.png" alt="people" width={100} height={100} />
+              <img src="/faq.png" className='opacity-30' alt="people" width={100} height={100} />
               <h3 className='text-xl font-extrabold opacity-30'>FAQ</h3>    
         </div>
       </div>

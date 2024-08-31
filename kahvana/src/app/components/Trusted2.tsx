@@ -22,10 +22,6 @@ function Trusted2() {
         </div>
       </div>
      
-           
-            
-           
-
         <div className='flex flex-col justify-center items-center'>
             <p className='text-base flex-col text-center text-[#626060]'>THERE ARE NO LIMITS!</p>
             <p className=' whitespace-nowrap flex-col text-center text-black font-semibold text-36px'>WE ARE PROFI AT</p>
@@ -68,17 +64,9 @@ function Trusted2() {
                     </div>
                     <p className='font-semibold pt-4'>Human Resources</p>
                 </div>
-            </div>
-            
-
-          
-          
+            </div>      
            
-        </div>
-
-        
-
-        
+        </div>       
      
     </div>
   )

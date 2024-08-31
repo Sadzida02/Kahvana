@@ -10,6 +10,7 @@ import Form from "./components/Form";
 import Footer from "./components/Footer";
 import Hvala from "./components/Hvala";
 import Trusted2 from "./components/Trusted2";
+import Trusted3 from "./components/Trusted3";
 
 export default function Page() {
   return (
@@ -21,6 +22,7 @@ export default function Page() {
       <WhyChooseUs></WhyChooseUs>
       <Trusted></Trusted>
       <Trusted2></Trusted2>
+      <Trusted3></Trusted3>
       <Services2></Services2>
       <Form></Form>
       <Hvala></Hvala>
