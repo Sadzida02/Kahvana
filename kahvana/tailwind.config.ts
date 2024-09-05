@@ -109,6 +109,10 @@ const config: Config = {
         '0.005': '0.005', // Dodajte opacity od 0,5%
       },
 
+      boxShadow: {
+        "my": "7px 7px 5px -3px #FF3179",
+
+      },
       margin: {
         "75": "75px",
         "100": "100px",

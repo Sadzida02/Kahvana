@@ -7,7 +7,7 @@ function Navbar() {
         <div className='flex text-center font-normal text-xl'>
             <ul>
                 <a href='/Portfolio'className='px-8'>Portfolio</a>
-                <a href='#'className='px-8'>About Us</a>
+                <a href='/aboutUs'className='px-8'>About Us</a>
                 <a href='/'className='px-8'>Home</a>
                 <a href='#'className='px-8'>Careers</a>
                 <a href='#'className='px-8'>Blog</a>
