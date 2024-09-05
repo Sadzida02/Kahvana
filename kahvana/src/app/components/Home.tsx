@@ -11,7 +11,7 @@ function Home() {
             </div>
             
             <p className='h-72 text-2xl font-normal'>Software Engineering - Data Enhancement and <br />Psychographic Analysis - Graphic Design and Print</p>
-            <a href="#" className='bg-kahvanaPink text-white text-sm font-semibold w-167 h-49 text-center p-4 rounded-2xl'>Get in Touch <FontAwesomeIcon icon={faPaperPlane} className='ml-2 inline' width={16} height={16} /></a>
+            <a href="/jobApplication" className='bg-kahvanaPink text-white text-sm font-semibold w-167 h-49 text-center p-4 rounded-2xl'>Get in Touch <FontAwesomeIcon icon={faPaperPlane} className='ml-2 inline' width={16} height={16} /></a>
         </div>      
     </div>
   )

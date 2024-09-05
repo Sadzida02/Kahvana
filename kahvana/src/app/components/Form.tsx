@@ -44,9 +44,6 @@ const Form = () => {
             <a href="#" className='bg-kahvanaPink text-white text-sm font-semibold w-167 h-49 text-center p-4 rounded-2xl'>POŠALJI UPIT<FontAwesomeIcon icon={faPaperPlane} className='ml-2 inline' width={16} height={16} /></a>
           </div>
         </div>
-          
-            
-            
         </div>
      
  

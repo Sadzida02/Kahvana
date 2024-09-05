@@ -6,8 +6,13 @@ function Navbar() {
         <img src="/logo.png" alt="kahvana logo" width={121} height={38} />
         <div className='flex text-center font-normal text-xl'>
             <ul>
+<<<<<<< HEAD
                 <a href='/Portfolio'className='px-8'>Portfolio</a>
                 <a href='#'className='px-8'>About Us</a>
+=======
+                <a href='#'className='px-8'>Portfolio</a>
+                <a href='/aboutUs'className='px-8'>About Us</a>
+>>>>>>> 08a0a27f85e91182b0666a96670f92e719396508
                 <a href='/'className='px-8'>Home</a>
                 <a href='#'className='px-8'>Careers</a>
                 <a href='#'className='px-8'>Blog</a>

@@ -32,8 +32,8 @@ function WhyChooseUs() {
                 </div>
 
                 <div>
-                    <img src="/office.jpg" width={472} height={365} alt="" className='relative bottom-16 z-0 rounded-3xl' />
-                    <img src="/office.jpg" width={382} height={341} alt="" className='relative bottom-64 left-36 rounded-3xl z-5' />
+                    <img src="/office.jpg" width={472} height={365} alt="" className='relative bottom-16 z-0 rounded-3xl shadow-my' />
+                    <img src="/office.jpg" width={382} height={341} alt="" className='relative bottom-64 left-36 rounded-3xl z-5 shadow-my' />
                 </div>
             </div>
          </div>
