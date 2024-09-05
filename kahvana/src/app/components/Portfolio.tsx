@@ -22,7 +22,7 @@ const Portfolio = () => {
 </div>
     </div>
   
-    <div className='grid grid-cols-3 justify-between p-40 ml-20'>
+    <div className='grid grid-cols-3 justify-between p-20 ml-20'>
             
             <div  className='flex flex-col w-299 h-381 rounded-xl bg-white  '>
               <div className=' '>
@@ -82,7 +82,7 @@ const Portfolio = () => {
               </div>
 
 
-                   <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+                   <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-5'>
               <div className=' '>
               <img src="/manage-it.png" alt=""width={299} height={306} />
               </div>
