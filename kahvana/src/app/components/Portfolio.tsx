@@ -22,12 +22,14 @@ const Portfolio = () => {
 </div>
     </div>
   
-    <div className='grid grid-cols-3 justify-between p-40'>
+    <div className='grid grid-cols-3 justify-between p-40 ml-20'>
             
-            <div  className='flex flex-col w-299 h-381 rounded-sm bg-white  '>
+            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white  '>
               <div className=' '>
               <img src="/swipelix.png" alt=""width={299} height={306} />
               </div>
+
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Swipelix</p>
               </div>
@@ -37,6 +39,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/cordoba.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Cordoba</p>
               </div>
@@ -46,6 +49,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/comp-2000.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Comp-2000</p>
               </div>
@@ -56,6 +60,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/europrofili.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Europrofili</p>
               </div>
@@ -81,6 +86,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/manage-it.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Manage-IT</p>
               </div>
@@ -90,6 +96,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/quad.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Quad Tour Bjelasnica</p>
               </div>
@@ -99,6 +106,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/fitness.png"  width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> CityCab</p>
               </div>
@@ -108,6 +116,7 @@ const Portfolio = () => {
               <div className=''>
               <img src="/fitness.png" alt=""width={299} height={306} className='p-10  rounded-75 ' />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> City Fitness</p>
               </div>
@@ -117,6 +126,7 @@ const Portfolio = () => {
               <div className=' '>
               <img src="/law.png" alt=""width={299} height={306} />
               </div>
+              <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Law Office Ibrahimovic</p>
               </div>

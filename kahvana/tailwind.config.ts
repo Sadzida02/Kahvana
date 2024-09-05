@@ -121,17 +121,12 @@ const config: Config = {
         "70": "70px",
         "100": "100px",
       },
-<<<<<<< HEAD
 
       borderRadius:{
         "100": "100px",
         "50": "50px",
         "75": "75px",
         "200": "200px",
-=======
-      boxShadow: {
-        "my": " 7px 7px 4px -3px #FF3179"
->>>>>>> 08a0a27f85e91182b0666a96670f92e719396508
       }
 
     },
