@@ -6,9 +6,9 @@ function Navbar() {
         <img src="/logo.png" alt="kahvana logo" width={121} height={38} />
         <div className='flex text-center font-normal text-xl'>
             <ul>
-                <a href='#'className='px-8'>Portfolio</a>
+                <a href='/Portfolio'className='px-8'>Portfolio</a>
                 <a href='#'className='px-8'>About Us</a>
-                <a href='#'className='px-8'>Home</a>
+                <a href='/'className='px-8'>Home</a>
                 <a href='#'className='px-8'>Careers</a>
                 <a href='#'className='px-8'>Blog</a>
                 <a href='#'className='px-8'>Contact</a>
