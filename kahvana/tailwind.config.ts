@@ -13,6 +13,7 @@ const config: Config = {
         "almostWhite": "#F4F4F9",
         "lightGray": "#BCBCBC",
         "footerGray": "#111111",
+        "darkGray": "#626060",
       },
       width: {
         "1": "1px",
@@ -79,6 +80,7 @@ const config: Config = {
         "868":"868px",
         "1024": "1024px",
         "1040": "1040px",
+        "1500": "1500px",
 
         
       },
@@ -106,6 +108,9 @@ const config: Config = {
       },
       padding: {
         "100": "100px",
+      },
+      boxShadow: {
+        "my": " 7px 7px 4px -3px #FF3179"
       }
     },
   },
