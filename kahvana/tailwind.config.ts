@@ -111,6 +111,7 @@ const config: Config = {
 
       boxShadow: {
         "my": "7px 7px 5px -3px #FF3179",
+        "glow": "0px 0px 30px -1px #F4F4F9",
 
       },
       margin: {
