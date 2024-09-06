@@ -10,6 +10,11 @@
   background-image: url('../../public/backgroundForTrusted.jpg');
 }
 
+.custom-img3 {
+  background-image: url('../../public/backgroundProject.jpg');
+}
+
+
 body {
   background-image: url('../../public/servicesbackgorundimage.jpg');
 }
