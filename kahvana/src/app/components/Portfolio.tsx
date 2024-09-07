@@ -82,13 +82,13 @@ const Portfolio = () => {
               </div>
 
 
-                   <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-5'>
+                   <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
               <div className=' '>
               <img src="/manage-it.png" alt=""width={299} height={306} />
               </div>
               <div className='w-299 h-0.5 bg-black'></div>
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
-                <p className='font-semibold text-[#333333] text-xl text-center items-center pt-14'> Manage-IT</p>
+                <p className='font-semibold text-[#333333] text-xl text-center items-center pt-10'> Manage-IT</p>
               </div>
             </div> 
 
