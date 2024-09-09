@@ -59,7 +59,7 @@ const Careers = () => {
 
             </div>
        
-    <div className='w-575 h-270'>
+    <div className='w-575 h-270 pt-10'>
     <p className='text-white text-xl font-normal'>"At Kahvana, we are an agile team of tech experts <br /> passionate about innovation. 
         Our mission is to deliver <br /> top-notch IT solutions that empower businesses in the <br /> digital age. 
         With a dedicated group of  <br /> developers, network engineers, and cybersecurity <br /> specialists, we've successfully streamlined operations <br /> and enhanced security for our  clients. 
