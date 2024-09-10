@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='w-1360 h-99 rounded-2xl fixed bg-white mx-10 mt-16 flex justify-between items-center px-24 opacity-80 z-20 shadow-glow'>
+    <div className='w-1440 h-99 rounded-2xl fixed bg-white mx-10 mt-16 flex justify-between items-center px-24 opacity-80 z-20 shadow-glow'>
         <img src="/logo.png" alt="kahvana logo" width={121} height={38} />
         <div className='flex text-center font-normal text-xl'>
             <ul>
@@ -10,7 +10,7 @@ function Navbar() {
                 <a href='/Portfolio'className='px-8'>Portfolio</a>
                 <a href='/aboutUs'className='px-8'>About Us</a>
                 <a href='/careers'className='px-8'>Careers</a>
-                <a href='#'className='px-8'>Blog</a>
+                <a href='/blog'className='px-8'>Blog</a>
                 <a href='#contact'className='px-8'>Contact</a>
             </ul>
         </div>
