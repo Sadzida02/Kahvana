@@ -11,7 +11,7 @@ function Navbar() {
                 <a href='/aboutUs'className='px-8'>About Us</a>
                 <a href='/careers'className='px-8'>Careers</a>
                 <a href='#'className='px-8'>Blog</a>
-                <a href='#'className='px-8'>Contact</a>
+                <a href='#contact'className='px-8'>Contact</a>
             </ul>
         </div>
 

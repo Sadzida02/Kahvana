@@ -24,52 +24,52 @@ const Portfolio = () => {
   
     <div className='grid grid-cols-3 justify-between p-20 ml-20'>
             
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white  '>
+    <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/swipelix.png" alt=""width={299} height={306} />
               </div>
 
-              <div className='w-299 h-0.5 bg-black'></div>
+            
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Swipelix</p>
               </div>
             </div>
             
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white'>
-              <div className=' '>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
+              <div className=' '>    
               <img src="/cordoba.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
+            
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Cordoba</p>
               </div>
             </div>
 
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/comp-2000.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
+          
               <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Comp-2000</p>
               </div>
 
 
             </div>
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/europrofili.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
-                <p className='font-semibold text-[#333333] text-xl text-center items-center pt-10 '> Europrofili</p>
+              
+              <div className='bg-almostWhite w-299 h-75 items-center top-16 relative text-center rounded-xl'>
+                <p className='font-semibold text-[#333333]  text-xl text-center items-center pt-5 '> Europrofil</p>
               </div>
             </div>
 
               <div className=' mt-10 pr-12 '>
-              <div className='pr-12'>
+              <div className='pr-12 flex justify-center flex-col'>
               <h2 className='font-medium text-white text-48 text-center whitespace-nowrap'>NASA <br /> PROSLOST <br /> NIJE TAJNA</h2>
-              <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 whitespace-nowrap  '> Preuzmi nas portofolio i saznaj detalje</p>
+              <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 whitespace-nowrap -ml-5  '> Preuzmi nas portofolio i saznaj detalje</p>
              
               </div>
              
@@ -81,53 +81,52 @@ const Portfolio = () => {
            
               </div>
 
-
-                   <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+              <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/manage-it.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
-                <p className='font-semibold text-[#333333] text-xl text-center items-center pt-10'> Manage-IT</p>
+         
+              <div className='bg-almostWhite w-299 h-75 relative top-16 items-center text-center rounded-xl'>
+                <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Manage-IT</p>
               </div>
             </div> 
 
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/quad.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
+          
+              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-xl'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Quad Tour Bjelasnica</p>
               </div>
             </div> 
 
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
-              <img src="/fitness.png"  width={299} height={306} />
+              <img src="/fitness.png"  width={299} height={306} className='rounded-xl' / >
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
+             
+              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-xl'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> CityCab</p>
               </div>
             </div> 
 
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=''>
               <img src="/fitness.png" alt=""width={299} height={306} className='p-10  rounded-75 ' />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
+              
+              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-xl'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> City Fitness</p>
               </div>
             </div> 
 
-            <div  className='flex flex-col w-299 h-381 rounded-xl bg-white mt-10'>
+            <div  className='flex flex-col w-299 h-381 rounded-xl custom-img3 bg-cover mt-10'>
               <div className=' '>
               <img src="/law.png" alt=""width={299} height={306} />
               </div>
-              <div className='w-299 h-0.5 bg-black'></div>
-              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-sm'>
+           
+              <div className='bg-almostWhite w-299 h-75 items-center text-center rounded-xl'>
                 <p className='font-semibold text-[#333333] text-xl text-center items-center pt-5 '> Law Office Ibrahimovic</p>
               </div>
             </div> 

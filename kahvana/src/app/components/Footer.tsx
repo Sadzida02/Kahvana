@@ -63,12 +63,12 @@ function Footer() {
 
             <div className='flex justify-between items-center mx-155 text-2xl my-16'>
                 <a href="#">Affiliate</a>
-                <a href="#">Home</a>
-                <a href="#">Portfolio</a>
-                <a href="#">About Us</a>
-                <a href="#">Careers</a>
+                <a href="/">Home</a>
+                <a href="/Portfolio">Portfolio</a>
+                <a href="/aboutUs">About Us</a>
+                <a href="careers">Careers</a>
                 <a href="#">Blog</a>
-                <a href="#">Contact</a>
+                <a href="#contact">Contact</a>
             </div>
 
             <div className='flex items-center justify-center'>
