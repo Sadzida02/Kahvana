@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .custom-img {
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../public/home1.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../public/Pozadina.png');
 }
 
 .custom-img2 {
@@ -11,12 +11,12 @@
 }
 
 .custom-img3 {
-  background-image: url('../../public/backgroundProject.jpg');
+  background-image: url('../../public/backgroundProject.png');
 }
 
 
 body {
-  background-image: url('../../public/servicesbackgorundimage.jpg');
+  background-image: url('../../public/Pozadina.png');
 }
 *{
   scroll-behavior:smooth;

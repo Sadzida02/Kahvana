@@ -116,7 +116,8 @@ const config: Config = {
 
       },
       opacity: {
-        '0.005': '0.005', // Dodajte opacity od 0,5%
+        '0.005': '0.005',
+        '0,1':'0,1', // Dodajte opacity od 0,5%
       },
 
       boxShadow: {
