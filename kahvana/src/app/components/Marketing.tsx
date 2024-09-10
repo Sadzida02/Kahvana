@@ -6,7 +6,10 @@ const Marketing = () => {
     <div className='w-full h-1024 text-white '>
     <div className='flex  pt-52 items-center'>
         <div className='w-[68px] h-0.5 bg-white '></div>
+        <a href="/">
         <FontAwesomeIcon icon={faArrowLeft} className='ml-2 inline' width={40} height={40}/>
+        </a>
+    
         <h2 className=' text-36 px-10'>Marketing </h2>
         
 
