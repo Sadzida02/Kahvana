@@ -24,7 +24,7 @@ function WhyChooseUs() {
                     <div className='bg-lightGray rounded-2xl w-8 h-8 mt-4'></div>
                 </div>
             </div>
-            <div className='bg-white h-0.5 w-620 relative bottom-5 mx-305 mb-40'></div>
+            <div className='bg-white h-0.5 w-[720] relative bottom-5 mx-305 mb-40'></div>
 
             <div className='flex justify-around'>
                 <div className='w-580'>
