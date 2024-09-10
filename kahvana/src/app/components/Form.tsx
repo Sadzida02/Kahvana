@@ -4,11 +4,7 @@ import { faPaperPlane} from "@fortawesome/free-regular-svg-icons";
 
 const Form = () => {
   return (
-<<<<<<< HEAD
-    <div className=' bg-almostWhite w-full h-522 flex flex-row justify-between px-100 py-16 ' id='contact'>
-=======
     <div id="contact" className=' bg-almostWhite w-full h-522 flex flex-row justify-between px-100 py-16'>
->>>>>>> 13b19bc2e52a6b512f6ff39d0a0898a5f3b66748
         
           <img src="/formaslika.jpg" alt="" width={552} height={402} className='rounded-2xl' />
         
