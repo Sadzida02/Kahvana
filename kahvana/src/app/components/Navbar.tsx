@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='w-1440 h-99 rounded-2xl fixed bg-white mx-10 mt-16 flex justify-between items-center px-24 opacity-80 z-20 shadow-glow'>
+    <div className='w-1360 h-99 rounded-2xl fixed bg-white mx-10 mt-16 flex justify-between items-center px-24 opacity-80 z-20 shadow-glow'>
         <img src="/logo.png" alt="kahvana logo" width={121} height={38} />
         <div className='flex text-center font-normal text-xl'>
             <ul>
